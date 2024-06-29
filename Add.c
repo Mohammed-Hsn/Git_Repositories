@@ -2,7 +2,7 @@
 
 int main(){
     int a,b,c;
-    printf("--------------------\n");
+    printf("-------------------\n");
     
     printf("Enter you number 1:\n --->\t");
     scanf("%d",&a);
@@ -12,6 +12,6 @@ int main(){
     scanf("%d",&c);
     int sum = a+b+c;
     printf("The addition of %d,%d,%d is:\n --->\t%d\n",a,b,c,sum);
-    printf("--------------------\n");
+    printf("-------------------\n");
 
 }
