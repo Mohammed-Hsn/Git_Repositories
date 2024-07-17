@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <limits.h>
+#include<stdlib.h>
 
 void sstf(int arr[], int head, int size) {
     int seek_count = 0;
